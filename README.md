@@ -1,0 +1,2 @@
+# Netflix_Dummy_DevSecOps_Pipeline_Project
+Netflix dummy pipeline
